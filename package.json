@@ -156,7 +156,7 @@
     "release": "npx bumpp --commit --tag --push"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.6.2",
+    "@antfu/eslint-config": "^0.39.7",
     "@types/node": "^14.14.37",
     "@types/vscode": "^1.52.0",
     "eslint": "^7.23.0",
