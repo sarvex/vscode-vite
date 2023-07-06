@@ -2648,10 +2648,10 @@ type-fest@^0.8.1:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.8.1.tgz#09e249ebde851d3b1e48d27c105444667f17b83d"
   integrity sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==
 
-types-package-json@^2.0.31:
-  version "2.0.31"
-  resolved "https://registry.yarnpkg.com/types-package-json/-/types-package-json-2.0.31.tgz#e80c2ae7e6a936f932cda4887f8afd7bc1fa75f0"
-  integrity sha512-HS5atf4m5zBJNhvcWJVOdtGVuYNNNvzHmCA5eAueMByc96CEoyo2qxxcqtNN9vCSeOcrm/2SvraJz2JLbfc3RA==
+types-package-json@^2.0.39:
+  version "2.0.39"
+  resolved "https://registry.yarnpkg.com/types-package-json/-/types-package-json-2.0.39.tgz#940466c69674a42c2453c54a8d5735a2ffb31d47"
+  integrity sha512-c8ua5W1Uu6x7LAwtwSGCl46cHmj+r2eAA+lXR1CluIZotu9V03ZHcGB9wKRZE2oIAX5IzMP/rxDV9g9ikCg9Nw==
 
 typescript@^4.2.3:
   version "4.2.3"
